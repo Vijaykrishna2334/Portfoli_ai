@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: auth-manager
+Version: 1.0.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: boto3
+
+# Auth Manager
+
+`auth_manager` is a Python library for managing user authentication with AWS DynamoDB. It provides functions for user registration, authentication, password changes, and user deletion.
+
+## Installation
+
+```bash
+pip install auth_manager
